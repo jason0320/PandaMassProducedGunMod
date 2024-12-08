@@ -77,5 +77,8 @@
     <Compile Include="Mod_PandaMassProducedGunMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="MassProducedGun.xlsx" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
